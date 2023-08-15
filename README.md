@@ -2,4 +2,5 @@
 
 This is a set of python scripts designed to analyse climate datafiles. 
 
+This code is currenlty in development and not all features will work 
 
